@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Poppins:wght@200&display=swap');
+
+/*
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+*/
+
+img {
+    position: relative;
+    margin-left: 50px;
+}
+
+h1 {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 22px;
+    font-size: 18px;
+}
+
+p.description_one, p.description_two {
+    color: silver;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    margin-left: 45px;
+    margin-top: -10px;
+}
+
+p.description_two {
+    margin-left: 30px;
+    margin-top: -15px;
+}
+
+.contacts_site, .contacts_mail, .socialmedia {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    padding: 18px;
+    margin-top: 30px;
+    margin-left: 0px;
+    color: silver;
+}
+
+.contacts_mail {
+    margin-left: -1px;
+    margin-top: -53px;
+} 
+
+.socialmedia {
+    margin-top: -55px;
+    margin-left: -1px;
+}
+
+.github {
+    margin-left: 50px;
+    margin-top: -47px;
+}
+
+.telegram {
+    margin-left: 67px;
+    margin-top: -19px;
+}
+
+.twitter {
+    margin-left: 82px;
+    margin-top: -19px;
+}
+
+.vector {
+    margin-left: 99px;
+    margin-top: -19px;
+}
+
+.swift, .architecture {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: white;
+    margin-left: 30px;
+    margin-top: 35px;
+    border-radius: 15px;
+    border: 1px solid white;
+}
+
+.architecture {
+    margin-left: 80px;
+    margin-top: -29px;
+}
+
+header {
+    background: linear-gradient(180deg, #262930 0%, #232731 100%);
+    width: 180px;
+    float: left;
+    height: 1000px;
+    padding: 10px;
+    margin-left: -5px;
+    margin-top: -8px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
